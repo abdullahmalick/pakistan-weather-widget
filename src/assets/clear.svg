@@ -1,0 +1,38 @@
+<svg width="466" height="466" viewBox="0 0 466 466" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_2_76)">
+<circle cx="233" cy="233" r="101" fill="#FFC701" fill-opacity="0.35"/>
+</g>
+<circle cx="233" cy="236.311" r="96.3705" fill="url(#paint0_linear_2_76)" stroke="url(#paint1_linear_2_76)" stroke-width="2.63637"/>
+<mask id="mask0_2_76" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="135" y="193" width="196" height="141">
+<path d="M330.689 236.311C330.689 290.263 286.952 334 233 334C179.048 334 135.311 290.263 135.311 236.311C135.311 182.36 171.597 194.918 225.549 194.918C279.501 194.918 330.689 182.36 330.689 236.311Z" fill="url(#paint2_linear_2_76)"/>
+</mask>
+<g mask="url(#mask0_2_76)">
+<g filter="url(#filter1_f_2_76)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M382.017 415.131C382.017 454.452 350.141 486.328 310.82 486.328C310.544 486.328 310.268 486.326 309.993 486.323V486.328H59.9759L59.9791 486.324C59.7023 486.327 59.4252 486.328 59.1477 486.328C19.8268 486.328 -12.0491 454.452 -12.0491 415.132C-12.0491 375.811 19.8268 343.935 59.1477 343.935C93.0411 343.935 121.403 367.618 128.587 399.339L152.697 368.77L228.033 343.934H309.993V343.939C310.268 343.936 310.544 343.934 310.82 343.934C350.141 343.934 382.017 375.81 382.017 415.131Z" fill="#E18700"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_2_76" x="0.181259" y="0.181259" width="465.637" height="465.637" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="65.9094" result="effect1_foregroundBlur_2_76"/>
+</filter>
+<filter id="filter1_f_2_76" x="-30.5037" y="325.48" width="430.975" height="179.303" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="9.22731" result="effect1_foregroundBlur_2_76"/>
+</filter>
+<linearGradient id="paint0_linear_2_76" x1="233" y1="138.623" x2="233" y2="334" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE600"/>
+<stop offset="1" stop-color="#FF7A00"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2_76" x1="233" y1="138.623" x2="233" y2="334" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_2_76" x1="233" y1="138.623" x2="233" y2="334" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFD600"/>
+<stop offset="1" stop-color="#FF7A00"/>
+</linearGradient>
+</defs>
+</svg>
